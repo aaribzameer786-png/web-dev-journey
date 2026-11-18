@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atlas Zameer 👋</h1>
+<h1 align="center">Hi, I'm Aarib Zameer 👋</h1>
 <h3 align="center">CS Engineering Student | Aspiring Web Developer & Hardware Builder</h3>
 
 <p align="center">
